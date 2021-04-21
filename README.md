@@ -1,10 +1,6 @@
-### Hi there 👋
+### Olá👋, me chamo Natanael Oliveira sou Web Developer Full Stack, apaixonado por tecnologia e sempre disponível para novos projetos.
 
-
-
-**Natanael-Aguiar/Natanael-Aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Aqui está alguns itens sobre mim:
 
 - 🔭 Atualmente, estou trabalhando projetos pessoais;
 - 🌱 Atualmente, estou aprendendo Tailwind css e Laravel;
