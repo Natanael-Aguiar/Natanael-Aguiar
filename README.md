@@ -1,4 +1,4 @@
-### Olá👋, me chamo Natanael Oliveira sou Web Developer Full Stack, apaixonado por tecnologia e sempre disponível para novos projetos.
+### Olá 👋, me chamo Natanael Oliveira sou Web Developer Full Stack, apaixonado por tecnologia e sempre disponível para novos projetos.
 
 Aqui está alguns itens sobre mim:
 
